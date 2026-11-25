@@ -49,10 +49,28 @@ and four layouts.
   <img src="images/gamebar-crt-vaporwave.webp" width="480" alt="The game bar in the CRT Vaporwave theme: a Continue playing card, recent games, play time this week and favourite games.">
 </p>
 
-And more: clock, calendar, volume, network, battery, media, weather, meters and
-clipboard history modules; layouts you switch in one step; per-app rules on
-the task strip; keyboard control for the whole bar; desktop widgets
-(experimental); a portable mode that runs from a folder or a USB stick.
+### More of Katofli
+
+<table>
+<tr>
+<td width="50%"><img src="images/feature-04-bars-displays.webp" alt="Settings showing two displays: one with a bar along the top, the other with bars on the bottom, top and left."><br><b>Several bars, a layout per display.</b> Up to four extra bars on any edge of any display.</td>
+<td width="50%"><img src="images/feature-05-layout-presets.webp" alt="The Layout presets page with three saved layouts and the four ready-made presets."><br><b>Layouts you switch in one step.</b> Four presets and up to 12 saved layouts, with a way back to the one you left.</td>
+</tr>
+<tr>
+<td><img src="images/feature-06-desktop-weather.webp" alt="The weather desktop widget with an hourly temperature curve and rain chances, next to a system readings card, on a wallpaper."><br><b>Desktop widgets (experimental).</b> Weather, meters, what is playing and the game bar home as cards on your wallpaper.</td>
+<td><img src="images/feature-07-app-rules.webp" alt="The Rules and icons page listing apps with rules, and the rule editor for the selected app."><br><b>Per-app rules.</b> Hide, rename, re-icon or regroup an app, or open it on a chosen display or desktop.</td>
+</tr>
+<tr>
+<td><img src="images/feature-08-shortcuts.webp" alt="The Shortcuts page while a new key combination is recorded, warning that it is already used by another app."><br><b>Keyboard control.</b> Global shortcuts with conflict detection, and a keyboard mode for the whole bar.</td>
+<td><img src="images/feature-09-recovery.webp" alt="The emergency keys card: one key reloads Katofli, the other quits and brings the system taskbar back."><br><b>Recovery you can count on.</b> Emergency keys, a watchdog after a crash, and a safe start.</td>
+</tr>
+<tr>
+<td><img src="images/feature-10-portable-languages.webp" alt="The Startup page in Japanese, showing portable mode with its data folder next to the program."><br><b>Portable mode and 14 languages.</b> Run it from a folder or a USB stick, in your language.</td>
+<td><img src="images/settings-appearance-theme.webp" alt="The Appearance page in Settings, choosing between the seven themes and their variants."><br><b>Settings that show you the result.</b> Pick a theme and its variant and see the bar change as you go.</td>
+</tr>
+</table>
+
+Also on board: clock, calendar, volume, network, battery, media, weather, meters and clipboard history modules.
 
 **Private by design.** Katofli has no telemetry, no crash reports and no
 account. Nothing is sent to the developer.
