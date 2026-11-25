@@ -1,0 +1,42 @@
+name: Translation fix
+description: A translated string is wrong, unclear or does not fit.
+labels: ["documentation"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Katofli version
+      description: Settings > System > About.
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Deutsch
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where you see it
+      description: The Settings page, bar module or pop-up.
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested text
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it is better
+      description: For example, it is wrong, too long for the space, or not how people say it.

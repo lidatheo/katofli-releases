@@ -1,0 +1,60 @@
+KATOFLI END-USER LICENCE
+
+Licensor: Dimitra Lida Theodorou ("the developer")
+Contact: https://github.com/lidatheo/katofli-releases/issues
+
+By installing or using Katofli you accept this licence. If you do not accept
+it, do not install or use Katofli.
+
+1. Free to use
+Katofli is free of charge. You may use it for personal and commercial
+purposes, on any number of your own devices.
+
+2. What you may not do
+You may not re-host or redistribute Katofli, publish modified builds of it,
+or remove or change its notices. You may not reverse engineer, decompile or
+disassemble it, except as far as applicable law allows this despite this
+licence.
+
+3. Ownership
+Katofli is licensed to you, not sold. The developer keeps all rights that
+this licence does not give you. The name Katofli and its logo are not
+licensed to you for use in other products or services.
+
+4. Third-party software
+Katofli includes components made by others. They stay under their own
+licences, listed in Settings > About > Licences and in
+THIRD-PARTY-NOTICES.txt. Where such a licence conflicts with this one for
+that component, that licence prevails.
+
+5. Privacy
+Katofli has no telemetry and sends nothing to the developer; GitHub, which
+hosts the downloads, shows the developer only download totals. What Katofli
+sends to public services to do its job (update check, weather, game covers)
+is described in Settings > About > Privacy.
+
+6. Updates and support
+Katofli can check for new versions and tells you when one exists. It
+installs an update only when you choose to. The developer has no duty to
+provide updates, fixes or support, but you can ask for help at the contact
+address above.
+
+7. Pre-release status
+Katofli may still be a beta or pre-release version. It can contain errors
+and features may change or be removed.
+
+8. No warranty and limited liability
+To the extent the law allows, Katofli is provided "as is", without warranty
+of any kind, and the developer is not liable for loss or damage arising from
+its use. Nothing in this licence excludes or limits liability for intent,
+gross negligence, death or personal injury, or any other liability that
+cannot be excluded by law. If you are a consumer, your mandatory statutory
+rights are not affected.
+
+9. Termination
+This licence ends automatically if you breach it. You must then stop using
+Katofli and delete your copies.
+
+10. Governing law
+This licence is governed by the laws of Greece. If you are a consumer, you
+also keep the mandatory consumer protection of the country where you live.
