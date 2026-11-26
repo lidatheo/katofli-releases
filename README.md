@@ -6,6 +6,7 @@
 ![Freeware](https://img.shields.io/badge/licence-freeware-6b7280)
 ![14 languages](https://img.shields.io/badge/languages-14-2f9e66)
 ![No telemetry](https://img.shields.io/badge/telemetry-none-2f9e66)
+[![VirusTotal 0.9.1: 0 of 70 engines flag the installer](https://img.shields.io/badge/VirusTotal%200.9.1-0%20%2F%2070-2f9e66)](https://www.virustotal.com/gui/file/115682351f08944bee9ef79c29c9dbdb3b1424a87028e2d00c8f7115ebfbeb31)
 [![Website](https://img.shields.io/badge/website-katofli.app-ffb066)](https://katofli.app)
 
 **A taskbar for Windows 11 that you arrange yourself.**
